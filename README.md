@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.hackerrank.com/m_202401152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_202401152" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/raj_patel_7807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raj_patel_7807" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raj_patel_7807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raj_patel_7807" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajpatel7807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajpatel7807" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/rajpatel7807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajpatel7807" height="30" width="40" /></a> -->
 </p>
 
 <br/>
