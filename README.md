@@ -23,9 +23,11 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-# 💫 About Me:
-- 🔭 I’m currently working on **Competitive Programming**
-- 📫 How to reach me [Gmail](rajpatel7807@gmail.com)
+## 💫 About Me:
+- 👀 I’m interested in programming and Developing
+- 🔭 I’m currently working on **Competitive Programming** with **C++** language.
+- 📫 How to reach me -> Gmail : rajpatel7807@gmail.com
+- 😄 Pronouns : He/Him
 
 <br/>
 
