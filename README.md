@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Competitive Programming](https://codeforces.com/profile/Raj_Patel_7807)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://rajpatel7807.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [Portfolio](https://rajpatel7807.netlify.app/) -->
 
 - 💬 Ask me about **C++, DSA, CP**
 
