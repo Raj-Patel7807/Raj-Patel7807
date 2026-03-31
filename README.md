@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Raj Patel</h1>
-- 🔭 I’m currently working on [Competitive Programming](https://codeforces.com/profile/Raj_Patel_7807)
+- 🔭 I’m currently working on <b><a href="https://codeforces.com/profile/Raj_Patel_7807">Competitive Programming</a></b>
 
 - 📫 How to reach me **rajpatel7807@gmail.com**
 
