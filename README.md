@@ -26,4 +26,5 @@
 <br>
 <h3 align="left">GitHub Stats 📊</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Patel7807&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raj-Patel7807&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Patel7807&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raj-Patel7807&theme=dark)
