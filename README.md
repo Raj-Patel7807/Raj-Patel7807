@@ -23,8 +23,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
+<br>
 <h3 align="left">GitHub Stats 📊</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Patel7807&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raj-Patel7807&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Patel7807&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raj-Patel7807&theme=dark)
