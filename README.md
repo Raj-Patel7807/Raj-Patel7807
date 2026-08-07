@@ -13,7 +13,7 @@
 <a href="https://www.codechef.com/users/raj_patel_7807"><img src="https://img.shields.io/badge/CodeChef-raj__patel__7807-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://codolio.com/profile/Raj_Patel_7807"><img src="https://img.shields.io/badge/Codolio-Raj__Patel__7807-5865F2?style=for-the-badge&logo=codolio&logoColor=white&labelColor=0d1117"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=Raj-Patel7807&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" alt="views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Raj-Patel7807&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" alt="views"/> -->
 
 <!-- ─────────── LIVE DISCORD PRESENCE (optional) ───────────
   Shows what you're currently doing on Discord, updating in real time.
