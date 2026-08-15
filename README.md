@@ -1,9 +1,9 @@
 <!-- ══════════════════════════ HEADER ══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:312e81,100:8b5cf6&height=200&section=header&text=Raj%20Patel&fontSize=52&fontColor=e9e4ff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Competitive%20Programmer&descAlignY=57&descSize=17" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:312e81,100:8b5cf6&height=200&section=header&text=Raj%20Patel&fontSize=52&fontColor=e9e4ff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20AI/LLM%20%C2%B7%20Competitive%20Programmer&descAlignY=57&descSize=17" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1300&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Raj+Patel+%F0%9F%91%8B;Competitive+programmer+learning+backend+development;Building+REST+APIs+with+Java+%26+Spring+Boot" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1300&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Raj+Patel+%F0%9F%91%8B;Competitive+programmer+learning+backend+systems;Learning+Python,+AI+%26+LLM+engineering;Building+REST+APIs+with+Java+%26+Spring+Boot" alt="typing"/>
 
 <br/>
 
@@ -48,12 +48,12 @@
   },
 
   "focus": {
-    "building": "REST APIs",
-    "stack": ["Java", "Spring Boot", "PostgreSQL"],
+    "building": "REST APIs & AI-powered apps",
+    "stack": ["Java", "Spring Boot", "Python", "FastAPI", "PostgreSQL"],
     "shipsWith": ["Docker", "Nginx", "Render"]
   },
 
-  "learning": ["backend development"]
+  "learning": ["backend development", "AI", "LLMs", "Python"]
 }
 ```
 
@@ -69,25 +69,41 @@
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=for-the-badge&logo=oauth&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI / LLM**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logo=probot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-2563EB?style=for-the-badge&logo=databricks&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge&logo=semanticweb&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge&logo=robotframework&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Frontend**
 
@@ -99,12 +115,19 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Render](https://img.shields.io/badge/Render-0080FF?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Aiven](https://img.shields.io/badge/Aiven-FF3D71?style=for-the-badge&logo=aiven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![uv](https://img.shields.io/badge/uv-261230?style=for-the-badge&logo=uv&logoColor=DE5FE9)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 
 <!-- </td>
 <td valign="middle" width="40%" align="center">
