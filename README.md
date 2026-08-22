@@ -192,9 +192,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats-eight-pink-56.vercel.app/api?username=Raj-Patel7807&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=58A6FF&v=0.1.0" width="48%" alt="stats"/>
-<img src="https://streak-stats.demolab.com/?user=Raj-Patel7807&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&v=0.1.0" width="48%" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Raj-Patel7807&hide_border=true&background=0D1117&stroke=30363D&ring=8B5CF6&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&v=0.1.1" width="48%" alt="streak"/>
 
-<img src="https://github-readme-stats-eight-pink-56.vercel.app/api/top-langs/?username=Raj-Patel7807&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&v=0.1.0" width="48%" alt="top langs"/>
+<img src="https://github-readme-stats-eight-pink-56.vercel.app/api/top-langs/?username=Raj-Patel7807&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&v=0.1.1" width="48%" alt="top langs"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Patel7807&hide_border=true&bg_color=0D1117&title_color=A78BFA&color=C9D1D9&line=8B5CF6&point=58A6FF&area=true&area_color=312E81&v=0.1.0" width="98%" alt="activity graph"/>
 
