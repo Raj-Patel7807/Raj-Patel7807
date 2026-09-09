@@ -13,19 +13,6 @@
 <a href="https://www.codechef.com/users/raj_patel_7807"><img src="https://img.shields.io/badge/CodeChef-raj__patel__7807-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://codolio.com/profile/Raj_Patel_7807"><img src="https://img.shields.io/badge/Codolio-Raj__Patel__7807-5865F2?style=for-the-badge&logo=codolio&logoColor=white&labelColor=0d1117"/></a>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=Raj-Patel7807&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" alt="views"/> -->
-
-<!-- ─────────── LIVE DISCORD PRESENCE (optional) ───────────
-  Shows what you're currently doing on Discord, updating in real time.
-  To enable:
-    1. Discord → Settings → Advanced → turn on Developer Mode
-    2. Right-click your avatar → "Copy User ID"  (a long number, not soulvenom6772)
-    3. Join https://discord.gg/lanyard  (required — the API only tracks members)
-    4. Replace both YOUR_DISCORD_ID below, then delete these comment markers
-
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0d1117&borderRadius=10px&hideSpotify=true&hideActivity=whenNotUsed&idleMessage=Probably%20debugging%20a%20DP%20solution" width="62%" alt="discord presence"/></a>
-─────────────────────────────────────────────────────── -->
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:312e81,100:8b5cf6&height=3" width="100%"/>
@@ -63,79 +50,81 @@
 
 ## Tech Stack
 
-<!-- <table>
-<tr>
-<td valign="middle" width="60%"> -->
-
 **Languages**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" title="C lang." /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Python" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+</p>
 
 **Backend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-3B82F6?style=for-the-badge&logo=oauth&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot / Spring Security" alt="Spring" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" alt="Maven" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" title="SQLAlchemy" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" title="Pydantic" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/OAuth_2.0-3B82F6?style=for-the-badge&logo=oauth&logoColor=white" title="OAuth 2.0" />
+</p>
 
-**AI / LLM**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logo=probot&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logo=bookstack&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-2563EB?style=for-the-badge&logo=databricks&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge&logo=semanticweb&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge&logo=robotframework&logoColor=white)
+<!-- **AI/ML** -->
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" title="pgvector" />
+</p>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
+</p>
 
 **Tools & Deployment**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
-![Aiven](https://img.shields.io/badge/Aiven-FF3D71?style=for-the-badge&logo=aiven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![uv](https://img.shields.io/badge/uv-261230?style=for-the-badge&logo=uv&logoColor=DE5FE9)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
-
-<!-- </td>
-<td valign="middle" width="40%" align="center">
-
-<img width="380" src="knowledge.gif" alt="tech stack gif"/>
-
-</td>
-</tr>
-</table> -->
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" alt="Supabase" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" title="Render" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/neon-46E3B7?style=for-the-badge&logo=neon&logoColor=black" title="Neon" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:312e81,100:8b5cf6&height=3" width="100%"/>
 
@@ -224,8 +213,6 @@
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 
 <div align="center">
-
-<!-- <img src="goodbye.gif" width="65%" alt="goodbye gif"/> -->
 
 <br/>
 
