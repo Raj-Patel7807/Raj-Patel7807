@@ -198,22 +198,22 @@
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Raj-Patel7807&langs_count=8&layout=compact&theme=aura&hide_border=true"
-    width="48%"
+    width="42%"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raj-Patel7807&layout=compact&theme=aura&border_radius=10"
-    width="48%"
+    width="42%"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Patel7807&layout=compact&theme=aura&border_radius=10"
-    width="48%"
+    width="42%"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raj-Patel7807&layout=compact&theme=aura&border_radius=10"
-    width="48%"
+    width="42%"
   />
 </p>
 
