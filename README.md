@@ -7,11 +7,19 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/raj-patel7807"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:rajpatel7807@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://codeforces.com/profile/Raj_Patel_7807"><img src="https://img.shields.io/badge/Codeforces-Raj__Patel__7807-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://www.codechef.com/users/raj_patel_7807"><img src="https://img.shields.io/badge/CodeChef-raj__patel__7807-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://codolio.com/profile/Raj_Patel_7807"><img src="https://img.shields.io/badge/Codolio-Raj__Patel__7807-5865F2?style=for-the-badge&logo=codolio&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://rajpatel7807.netlify.app/"><img src="https://img.icons8.com/?size=35&id=Gv7SjgKu0lV7&format=png&color=000000" atl="Portfolio web" title="Portfolio web" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/raj-patel7807"><img src="https://img.icons8.com/?size=35&id=13930&format=png&color=000000" atl="LinkedIn" title="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:rajpatel7807@gmail.com"><img src="https://img.icons8.com/?size=35&id=qyRpAggnV0zH&format=png&color=000000" alt="Mail" title="Mail" /></a>
+&nbsp;
+<a href="https://codeforces.com/profile/Raj_Patel_7807"><img src="https://img.icons8.com/?size=35&id=jldAN67IAsrW&format=png&color=000000" alt="Codeforces" title="Codeforces" /></a>
+&nbsp;
+<a href="https://www.codechef.com/users/raj_patel_7807"><img src="https://img.icons8.com/?size=35&id=LnZMjt9rZC3d&format=png&color=000000" alt="CodeChef" title="CodeChef" /></a>
+&nbsp;
+<a href="https://leetcode.com/u/Raj_Patel_7807/"><img src="https://img.icons8.com/?size=35&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeeCode" title="LeetCode" /></a>
+&nbsp;
+<a href="https://codolio.com/profile/Raj_Patel_7807"><img src="https://img.shields.io/badge/Codolio-5865F2?style=for-the-badge&logo=codolio&logoColor=white&labelColor=0d1117" alt="Codolio" title="Codolio" /></a>
 
 </div>
 
@@ -120,6 +128,8 @@
     <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
     &nbsp;
     <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+    &nbsp;
+    <img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" alt="Cloudflare" />
     &nbsp;
     <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" title="Render" />
     &nbsp;

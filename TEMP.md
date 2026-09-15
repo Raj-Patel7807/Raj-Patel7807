@@ -132,3 +132,8 @@
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black) -->
 
 
+<a href="https://linkedin.com/in/raj-patel7807"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:rajpatel7807@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://codeforces.com/profile/Raj_Patel_7807"><img src="https://img.shields.io/badge/Codeforces-Raj__Patel__7807-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.codechef.com/users/raj_patel_7807"><img src="https://img.shields.io/badge/CodeChef-raj__patel__7807-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://codolio.com/profile/Raj_Patel_7807"><img src="https://img.shields.io/badge/Codolio-Raj__Patel__7807-5865F2?style=for-the-badge&logo=codolio&logoColor=white&labelColor=0d1117"/></a>
