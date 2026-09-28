@@ -205,7 +205,7 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raj-Patel7807&layout=compact&theme=aura&border_radius=10"
     width="42%"
@@ -214,7 +214,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raj-Patel7807&layout=compact&theme=aura&border_radius=10"
     width="42%"
   />
-</p>
+</p> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj-Patel7807&hide_border=true&bg_color=0D1117&title_color=A78BFA&color=C9D1D9&line=8B5CF6&point=58A6FF&area=true&area_color=312E81" width="98%" alt="activity graph"/>
 
