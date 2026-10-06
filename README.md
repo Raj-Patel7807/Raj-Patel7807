@@ -7,7 +7,7 @@
 
 <br/>
 
-<a href="https://rajpatel7807.netlify.app/"><img src="https://img.icons8.com/?size=35&id=Gv7SjgKu0lV7&format=png&color=000000" atl="Portfolio web" title="Portfolio web" /></a>
+<a href="https://rajpatel7807.netlify.app/"><img src="https://img.icons8.com/?size=35&id=H101gtpJBVoh&format=png&color=FFFFFF" atl="Portfolio web" title="Portfolio web" /></a>
 &nbsp;
 <a href="https://linkedin.com/in/raj-patel7807"><img src="https://img.icons8.com/?size=35&id=13930&format=png&color=000000" atl="LinkedIn" title="LinkedIn" /></a>
 &nbsp;
